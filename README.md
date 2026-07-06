@@ -1,4 +1,5 @@
 # tr.acker
+https://kasviii.github.io/tr.acker/
 
 A dark, minimal expense and habit tracker that runs entirely in a single HTML file. No backend, no build step, no dependencies to install — just open it in a browser.
 
